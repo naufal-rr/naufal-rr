@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Naufal RR 👋
 
-<!--
-**naufal-rr/naufal-rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI & Python Developer interested in automation, web apps, and practical digital tools.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently learning and building projects with Python, AI, and automation
+- 🧠 Interested in AI assistants, productivity tools, and web applications
+- 🛠️ I enjoy turning ideas into useful projects
+- 🌱 Always improving my coding skills through real projects
+
+## 🛠️ Tech Stack
+
+- Python
+- JavaScript
+- HTML & CSS
+- Git & GitHub
+- Automation Tools
+- AI Tools
+
+## 📌 Featured Projects
+
+- **CareNesia AI Kesehatan** — AI-based health assistant project
+- **Dash Cuaca** — Weather dashboard built with Python
+- **Proyek Satrio** — Python project for learning and practice
+- **Proyek Naufal** — JavaScript project collection
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/naufal-rr
+- Instagram: https://www.instagram.com/nfall.rr/
+- YouTube: https://www.youtube.com/@Naufal_rr
+- GitHub: https://github.com/naufal-rr
