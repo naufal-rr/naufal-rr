@@ -1,31 +1,50 @@
 # Hi, I'm Naufal RR 👋
 
-I'm an AI & Python Developer interested in automation, web apps, and practical digital tools.
+I'm interested in AI, Python development, social media management, and creative digital design.  
+I enjoy building useful projects, managing digital content, and creating visual materials such as posters and social media designs.
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently learning and building projects with Python, AI, and automation
-- 🧠 Interested in AI assistants, productivity tools, and web applications
-- 🛠️ I enjoy turning ideas into useful projects
-- 🌱 Always improving my coding skills through real projects
+- Currently learning and building projects with Python, AI, and automation
+- Experienced in social media administration and digital content management
+- Interested in poster design, branding, and visual communication
+- Active in organization roles such as Medkominfo / PDD
+- Focused on improving my technical, creative, and communication skills
 
-## 🛠️ Tech Stack
+## Skills & Interests
 
+### Programming
 - Python
 - JavaScript
 - HTML & CSS
 - Git & GitHub
-- Automation Tools
+
+### Creative & Digital Media
+- Social Media Management
+- Poster Design
+- Content Planning
+- Visual Branding
+- Documentation & Publication
+
+### Tools
+- Canva
+- Figma
+- CapCut
+- Google Workspace
 - AI Tools
 
-## 📌 Featured Projects
+## Featured Projects
 
 - **CareNesia AI Kesehatan** — AI-based health assistant project
 - **Dash Cuaca** — Weather dashboard built with Python
-- **Proyek Satrio** — Python project for learning and practice
+- **Proyek Satrio** — Python learning project
 - **Proyek Naufal** — JavaScript project collection
 
-## 📫 Connect With Me
+## Current Focus
+
+I'm currently improving my skills in AI development, automation, web apps, and digital creative production.
+
+## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/naufal-rr
 - Instagram: https://www.instagram.com/nfall.rr/
